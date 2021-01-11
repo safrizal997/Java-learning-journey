@@ -52,5 +52,17 @@ class TipeDataArray {
         System.out.println(DaftarNama[0]);
         System.out.println(duit[1]);
 
+//Array didalam Array
+
+        String[][] member = {
+                {"Andi", "kuncung"},
+                {"Budi", "Bima"},
+                {"George"}
+        };
+        System.out.println(member[0][1]);
+        System.out.println(member[1][0]);
+        System.out.println(member[2][0]);
+
+
     }
 }
