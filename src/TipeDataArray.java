@@ -48,7 +48,7 @@ class TipeDataArray {
 
         DaftarNama[0] = null;
         duit[1] = 0;
-
+//Testing commit pertama dari intelij
         System.out.println(DaftarNama[0]);
         System.out.println(duit[1]);
 
