@@ -35,6 +35,12 @@ public class Variabel {
             -saat menggunakan kata kunci var untuk membbuat variabel,
             kita harus menginisiasi value/nilai dari variabel tersebut secara langsung
              */
+            var callName ="Ijal";
+            var Age = 23;
+            var initial = 'I';
+            var gemuk = false;
+            var kurus = true;
+
 
         //Kata kunci final
             /*
