@@ -5,7 +5,7 @@ public class TipeDataPrimitifBukanPrimitif {
 
     /* -Data primitif default value nya adalah 0 (nol)
        -Data bukan primitif default value nya adalah null (tidak ada data)
-       -Data bukan primitif tipe datanya adalah onjek
+       -Data bukan primitif tipe datanya adalah object
      */
         //Bukan Primitif
         Integer iniIntegr = null;
