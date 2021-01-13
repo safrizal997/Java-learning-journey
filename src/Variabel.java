@@ -51,6 +51,8 @@ public class Variabel {
             final String Profesi = "Kacung";
             //Profesi = "Presiden"; maka akan error
 
+            final var answer = false;
+            //answer = true; maka error juga
 
     }
 }
